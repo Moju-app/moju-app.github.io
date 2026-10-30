@@ -78,10 +78,10 @@ a:hover { text-decoration-color: var(--ink); }
   text-decoration: none;
 }
 
-/* El yazısı logo (uygulama ikonundaki yazı) */
+/* Logo (uygulama ikonundaki yazı) */
 .brand img {
   display: block;
-  height: 44px;
+  height: 34px;
   width: auto;
 }
 
