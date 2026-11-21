@@ -200,6 +200,7 @@ a:hover { text-decoration-color: var(--ink); }
 }
 
 .button[aria-disabled="true"] { cursor: default; }
+a.button:hover { transform: translateY(-1px); box-shadow: 0 10px 24px rgba(var(--shadow), 0.28); }
 
 .button svg { width: 20px; height: 20px; }
 
